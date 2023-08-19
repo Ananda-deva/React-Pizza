@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/286.0759921f.chunk.js","mappings":"+GAAO,SAASA,EAAIC,EAAWC,GAE9B,OADAC,QAAQC,IAAI,KACLH,EAAIC,CACZ,C","sources":["utils/math.ts"],"sourcesContent":["export function add(a: number, b: number) {\r\n\tconsole.log(111);\r\n\treturn a + b\r\n}"],"names":["add","a","b","console","log"],"sourceRoot":""}
